@@ -1,0 +1,5 @@
+berryclean — Windows temp file cleaner & system utility
+Copyright (C) 2026 Beepu. All rights reserved.
+
+Built with Tauri 2 (MIT / Apache-2.0) & windows-rs (MIT / Apache-2.0).
+
