@@ -17,6 +17,7 @@ Download the latest release from the **[Releases](../../releases/latest)** page:
 - **Startup & Context Menu Managers** — Inspect & toggle startup programs & Explorer right-click shell extensions in milliseconds.
 - **Tweaks, Services & Privacy** — Curated desktop, performance & privacy tweaks, one-click manual background service optimization (with state backup & restore), Windows Update policy switcher, DNS preset switcher, Privacy Guard & PATH Doctor.
 - **RAM & Tray Monitor** — Working-set & standby-list memory maintenance with zero background UI CPU when minimized or hidden to tray.
+- **One-Click GitHub Updates** — Automatic background update notifications with SHA-256 verification & single-click in-app installation.
 
 ## License
 
